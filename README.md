@@ -16,20 +16,22 @@
 
 ## General Information
 
-- What is the background of your project?
+- background of project :
+
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
     Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
     
-- What is the business probem that your project is trying to solve?
+-  business probem :
+
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
     In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
     
-- What is the dataset that is being used?
-Loan Data Set: It contains the complete loan data for all loans issued through the time period 2007 to 2011.
+- Loan Data Set: It contains the complete loan data for all loans issued through the time period 2007 to 2011.
    
 
 ## Conclusions
 - Factor whether an applicant will be Defaulter:
+
     Continuous Variable:
     1. LOAN_AMOUNT : Charged-off loans tend to have higher loan amounts when compared to fully paid.
     2. INTEREST_RATE : As Interest rate increases the default rate increases steeply.
